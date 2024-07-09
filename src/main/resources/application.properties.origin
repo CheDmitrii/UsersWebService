@@ -1,0 +1,9 @@
+spring.application.name=UsersWebRestFullService
+spring.datasource.driver-class-name=
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+HEADER.AUTHENTICATION.KEY=
+JWT.SECRET=
+LOGIN.URL=
